@@ -1,0 +1,119 @@
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Arial, sans-serif;
+    }
+
+    body {
+      background: #0f172a;
+      color: white;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      padding: 20px 10%;
+      align-items: center;
+    }
+
+    header h1 {
+      color: #38bdf8;
+    }
+
+    nav a {
+      margin-left: 20px;
+      text-decoration: none;
+      color: white;
+      transition: 0.3s;
+    }
+
+    nav a:hover {
+      color: #38bdf8;
+    }
+
+    img {
+      width: 250px;
+      border-radius: 30%;
+      border: 5px solid #38bdf8;
+      display: block;
+      margin: 0 auto;
+    }
+
+    figcaption {
+      text-align: center;
+      margin-top: 10px;
+      font-size: 1.2em;
+      color: #38bdf8;
+      
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+      background: #020617;
+    }
+
+
+
+    P {
+      text-align: center;
+      margin-top: 20px;
+      font-size: 1.2em;
+    }
+
+     
+body {
+    background: #0f172a;
+    color: white;
+}
+    
+    
+    table, td, th ,tr, caption {
+                border: 1.5px solid #ccc;
+                padding: 0.2rem;
+                border-collapse: collapse;
+                font-family: 'Courier New', Courier, monospace;
+                text-align: center;
+                margin: 0 auto;
+            }
+             projects {
+                width: 100%;
+                margin-top: 20px;
+             border: 2px solid #38bdf8;
+                padding: 20px;
+             }
+
+             skills {
+                width: 100%;
+                margin-top: 20px;
+                border: 2px solid #38bdf8;
+                padding: 20px;
+             }
+
+             
+             abbr :hover {
+                color: #38bdf8;
+                text-decoration: underline;
+             }
+
+             h1 {
+                color: #38bdf8;
+                text-align: center;
+             }
+             
+             h2 {
+                color: #38bdf8;
+                text-align: center;
+             }
+
+             footer {
+                text-align: center;
+                padding: 20px;
+                margin-top: 40px;
+                background: #020617;
+             }
+
+             legend {
+                text-align: center ;
+             }
